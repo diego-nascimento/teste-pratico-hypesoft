@@ -1,6 +1,6 @@
 <h1 align="center">Teste pratico Hypesoft</h1>
 
-### Prójeto desenvolvido utilizando react com o template do VITE com o template typescript para demonstrar habilidades em React. Foi escolhido pois é uma aplicação simples com apenas uma página e sem necessidade de SEO e sem necessidade do server side.
+### Prójeto desenvolvido utilizando react e cypress com o template do VITE typescript para demonstrar habilidades em React. Foi escolhido pois é uma aplicação simples com apenas uma página e sem necessidade de SEO e sem necessidade do server side.
 
 &nbsp;
 
